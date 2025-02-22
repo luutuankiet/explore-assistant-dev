@@ -1,5 +1,5 @@
 application: explore_assistant_dev_ken {
-  label: "Explore Assistant dev - ken"
+  label: "dev - ken Explore Assistant"
   url: "https://localhost:8080/bundle.js"
   # file: "bundle.js"
   entitlements: {
