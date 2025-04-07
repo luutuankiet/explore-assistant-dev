@@ -44,7 +44,7 @@ entitlements: {
   new_window: yes
   new_window_external_urls: ["https://developers.generativeai.google/*"]
   local_storage: yes
-  external_api_urls: ["https://explore-assistant-api-ken-hfcncejh6a-as.a.run.app"]
+  external_api_urls: ["https://explore-assistant-api-ken-136420034762.asia-southeast1.run.app"]
   oauth2_urls: ["https://accounts.google.com/o/oauth2/v2/auth"]
 }
 }
